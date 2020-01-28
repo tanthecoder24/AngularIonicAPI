@@ -4,9 +4,9 @@ This is a basic Angular app using Ionic Framework to get API from IEXAPI for App
 
 ## Installation
 
-You can clone this project for code reference.
+1. You can clone this project for code reference.
 
-Docker:
+2. Docker:
 ```bash
 docker run -p 8100:8100 tanthecoder/angular-ionic-api:latest
 ```
